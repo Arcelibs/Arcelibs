@@ -1,16 +1,13 @@
-### Hi there 👋
+# Arcelibs
 
-<!--
-**Arcelibs/Arcelibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-Arcelibs-%2312100E.svg?logo=Github&logoColor=white)](https://github.com/Arcelibs)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Introduction
+
+- 👋 你好，我是Arcelibs
+- 👀 我目前的工作是 資深FAE工程師、MIS網路工程師
+- 🌱 我會使用 **C#** / **Windows Powershell** / **ASP.NET**
+
+  
